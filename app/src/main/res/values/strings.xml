@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Poze_Map03</string>
+    <string name="access_token">pk.eyJ1Ijoic3VubnlqMDYxMyIsImEiOiJjanlmY2JhY3MxYXQ3M21zNTR1MWlhcXg4In0.auL_Qc9bYqZ4MKLyXLUWYw</string>
+    <!--Zoom in and out map instruction for toast-->
+    <string name="zoom_map_in_and_out_instruction">Zoom in and out to see cluster numbers change</string>
+    <string name="some_req_permissions">Some Permissions are required for this app</string>
+    <string name="open_settings">You need to give some mandatory permissions to continue. Do you want to go to app settings?</string>
+    <string name="okay">Okay</string>
+    <string name="cancel">Cancel</string>
+    <string name="yes">YES</string>
+</resources>
